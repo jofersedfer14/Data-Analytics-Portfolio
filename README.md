@@ -21,7 +21,7 @@ My recent projects include predicting key soccer metrics and forecasting beach a
 
 ## 📂 Projects
 - 🥅 [Beyond Goals: Soccer Metrics Analysis](Beyond_Goals/)
-- 🏖️ [Beach Attendance Analysis](Beach-Attendance-Analysis/)
+- 🏖️ [Beach Attendance Analysis](Beach_Attendance/)
 - 🚧 [Upcoming Project 1](Project-Placeholder-1/)
 - 🚧 [Upcoming Project 2](Project-Placeholder-2/)
 - 🚧 [Upcoming Project 3](Project-Placeholder-3/)
