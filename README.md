@@ -23,8 +23,7 @@ My recent projects include predicting key soccer metrics and forecasting beach a
 - 🥅 [Beyond Goals: Soccer Metrics Analysis](Beyond_Goals/)
 - 🏖️ [Beach Attendance Analysis](Beach_Attendance/)
 - 🏨 [Booked or Not](Booked_Or_Not/)
-- 🚧 [Upcoming Project 2](Project-Placeholder-2/)
-- 🚧 [Upcoming Project 3](Project-Placeholder-3/)
+- 👥 [Beyond Demographics](Beyond_Demographics/)
 
 ## 📩 Contact
 - Email: jsedanofernandez@my365.bellevue.edu
