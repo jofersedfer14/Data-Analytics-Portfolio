@@ -1,4 +1,4 @@
-# Jorge Sedano – Data Analyst Portfolio
+# [Jorge Sedano – Data Analyst Portfolio](https://github.com/jofersedfer14/Data-Analytics-Portfolio)
 
 ## 🔍 About Me
 Welcome to my data analytics and visualization portfolio repository! Here, you’ll find examples of my work.
